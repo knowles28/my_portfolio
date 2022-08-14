@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <div className="App">
-      <h1> ⚠️ UNDER CONTRUCTION! ⚠️</h1>
+      <h1> ⚠️ SITE UNDER CONTRUCTION! ⚠️</h1>
     </div>
     </>
   );
